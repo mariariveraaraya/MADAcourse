@@ -1,9 +1,9 @@
 name: "MADA Course"
 output_dir: 'docs'
 exclude: ["auxiliary", "*.csv"]
-favicon: ./media/MADAlogo.png
-base_url: https://andreashandel.github.io/MADAcourse/
-repository_url: https://github.com/andreashandel/MADAcourse/
+favicon: ./media/XXXXXXX
+base_url: 
+repository_url: 
 output:
   html_document:
     theme: 
@@ -19,12 +19,12 @@ output:
 navbar:
   title: "MADA Course"
   logo:
-    image: ./media/MADAlogo.png
-    href: https://andreashandel.github.io/MADAcourse/
+    image: ./media/XXXXX
+    href: 
   left:
     - text: "General Information"
       menu:
-        - text: "Syllabus"
+        - text: "ML at SDK"
           href: ./Course_Syllabus.html
         - text: "Schedule"
           href: ./Course_Schedule.html
